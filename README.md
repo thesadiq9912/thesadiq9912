@@ -60,7 +60,7 @@ GitHub
 
 https://github.com/thesadiq9912
 
-Emai
+Email
 
 sad527iq500@gmail.com
 
