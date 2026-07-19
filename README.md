@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Sadiq Khan
 
-<!--
-**thesadiq9912/thesadiq9912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Web Developer
 
-Here are some ideas to get you started:
+🎓 Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇵🇰 Pakistan
+
+---
+
+## 🚀 About Me
+
+I love building modern web applications using Html,Css,PHP, MySQL, JavaScript and Bootstrap.
+
+Currently working on:
+
+- 🎓 College Management System
+- 🌐 Responsive Websites
+- 💾 MySQL Database
+- 📱 Modern UI Design
+
+---
+
+## 🛠 Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+- Bootstrap
+- Git
+- GitHub
+
+---
+
+## 🎓 Featured Project
+
+### College Management System
+
+✔ Student Management
+
+✔ Teacher Management
+
+✔ Course Management
+
+✔ Admissions
+
+✔ Attendance System
+
+✔ Admin Dashboard
+
+✔ Secure Login
+
+---
+
+## 📫 Contact
+
+GitHub
+
+https://github.com/thesadiq9912
+
+Emai
+
+sad527iq500@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile.
